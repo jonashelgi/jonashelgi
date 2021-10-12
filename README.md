@@ -1,6 +1,6 @@
 ![alt text](https://github.com/jonashelgi/jonashelgi/blob/master/header.png?raw=true)
 
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 My name is Jonas Helgi and I am I web developer currently working at the Directorate of Education in Iceland.
 
