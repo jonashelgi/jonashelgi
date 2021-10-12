@@ -1,3 +1,5 @@
+![alt text](https://github.com/jonashelgi/jonashelgi/blob/master/header.jpg?raw=true)
+![alt text](https://i.imgur.com/jMntP1f.png)
 ### Hi there 👋
 
 My name is Jonas Helgi and I am I web developer currently working at the Directorate of Education in Iceland.
