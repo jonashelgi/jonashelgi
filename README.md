@@ -36,6 +36,19 @@
 ### Headless CMS
 <img src="https://prismic-io.s3.amazonaws.com/prismicio-docs-v3/77475eea-772e-4b8b-934f-6af022ad91c4_prismic-logo.svg" width="100">
 
+## 📜 Courses
+**Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)**
+[Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+Currently taking
+<br>**The Complete 2021 Web Development Bootcamp**
+[Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+[Certificate](https://www.udemy.com/certificate/UC-10471ff1-f7dd-4142-af02-a1e33a151341/)
+<br>**Tableau 2020 A-Z: Hands-On Tableau Training for Data Science** 
+[Course](https://www.udemy.com/course/tableau10/)
+[Certificate](https://www.udemy.com/certificate/UC-3c163630-9a06-4ea5-8221-14e07bf856bc/)
+<br>**Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)**
+[Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+[Certificate](https://www.udemy.com/certificate/UC-3c163630-9a06-4ea5-8221-14e07bf856bc/)
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jonashelgi.github.io/portfolio/)
