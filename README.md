@@ -38,7 +38,7 @@
 
 ## 📜 Courses
 **Docker and Kubernetes: The Complete Guide**
-[Course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide//)
+[Course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 Currently taking
 <br>**Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)**
 [Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
