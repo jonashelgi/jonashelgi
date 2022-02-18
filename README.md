@@ -1,7 +1,7 @@
 <!--- ![alt text](https://github.com/jonashelgi/jonashelgi/blob/master/header.png?raw=true)-->
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-**My name is Jonas Helgi and I am I web developer working at the Directorate of Education in Iceland and studying Computer Science at the University of Reykjavik in Iceland.**
+**My name is Jonas Helgi and I am I web developer working at the Directorate of Education in Iceland and studying Computer Science at the University of Reykjavik.**
 
 **Currently I'm working with React, Typescript and Prismic.**
 
