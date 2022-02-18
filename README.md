@@ -1,7 +1,7 @@
 <!--- ![alt text](https://github.com/jonashelgi/jonashelgi/blob/master/header.png?raw=true)-->
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-**My name is Jonas Helgi and I am I web developer working at the Directorate of Education in Iceland.**
+**My name is Jonas Helgi and I am I web developer working at the Directorate of Education in Iceland and studying Computer Science at the University of Reykjavik in Iceland.**
 
 **Currently I'm working with React, Typescript and Prismic.**
 
@@ -19,17 +19,18 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 ### Backend Development / BaaS / Headless CMS
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Strapi](https://img.shields.io/badge/Strapi-171693?style=for-the-badge&logo=strapi&logoColor=white)
 ![Prismic](https://img.shields.io/badge/Prismic-8B66A9?style=for-the-badge&logo=prismic&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### UI Documentation
+### Version Control / UI Documentation
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-storybook-e35182?style=for-the-badge&logo=storybook&logoColor=white)
 
 ## 📜 Courses
