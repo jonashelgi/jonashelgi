@@ -5,14 +5,16 @@
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Frontend Development / Frameworks, Platforms and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue3](https://img.shields.io/badge/vuejs-168363.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
@@ -28,11 +30,10 @@
 ### Version Control / UI Documentation / Design
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-storybook-e35182?style=for-the-badge&logo=storybook&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-A435F0.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Basic Knowledge
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
@@ -43,9 +44,9 @@
 **Docker and Kubernetes: The Complete Guide**
 [Course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 Currently taking
-<br>**Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)**
-[Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
-Currently taking
+<br>**Complete C# Masterclass**
+[Course](https://www.udemy.com/course/complete-csharp-masterclass/)
+[Certificate](https://www.udemy.com/certificate/UC-4fb1ecdc-bff4-47e9-bd2b-7b42ac3542ff/)
 <br>**The Complete 2021 Web Development Bootcamp**
 [Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 [Certificate](https://www.udemy.com/certificate/UC-10471ff1-f7dd-4142-af02-a1e33a151341/)
